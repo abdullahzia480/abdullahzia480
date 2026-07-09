@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=58a6ff&center=true&vCenter=true&width=745&height=44&lines=Digital%20Forensics%2C%20Incident%20Response%2C%20Blue%20Team" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d364&center=true&vCenter=true&width=745&height=44&lines=Digital%20Forensics%2C%20Incident%20Response%2C%20Blue%20Team" alt="Typing headlines" />
 </p>
 
 ### ✦ About Me
