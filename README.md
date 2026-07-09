@@ -1,7 +1,11 @@
 <p align="center">
   <a href="https://github.com/abdullahzia480">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Abdullah" alt="Hello! I&#39;m Abdullah" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Abdullah" alt="Hello! I'm Abdullah" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3fb950&height=2&section=header" width="260"/>
 </p>
 
 <p align="center">
@@ -10,8 +14,9 @@
 
 ### ✦ About Me
 
-Hi, I am Abdullah Zia, a  Digital Forensics and Cybersecurity Analyst. While I am always learning and do not consider myself an expert just yet, I have developed solid practical skills in Windows investigation and log analysis. My daily technical work focuses heavily on digital forensics, incident response, and malware analysis, along with hunting for web vulnerabilities sometimes. I also enjoy building my own security tools like my OpenForensics application for image analysis and many other tools. Alongside my personal projects, I currently serve as a Blue Team Mentor for the Cyberster Internship Program where I help guide our latest cohort of interns through real world security operations.
+Hi, I am Abdullah Zia, a Digital Forensics and Cybersecurity Analyst. While I am always learning and do not consider myself an expert just yet, I have developed solid practical skills in Windows investigation and log analysis. My daily technical work focuses heavily on digital forensics, incident response, and malware analysis, along with hunting for web vulnerabilities sometimes. I also enjoy building my own security tools like my OpenForensics application for image analysis and many other tools. Alongside my personal projects, I currently serve as a Blue Team Mentor for the Cyberster Internship Program where I help guide our latest cohort of interns through real-world security operations.
 
+---
 
 ### ✦ Connect With Me
 
@@ -24,3 +29,4 @@ Hi, I am Abdullah Zia, a  Digital Forensics and Cybersecurity Analyst. While I a
     <img src="https://skillicons.dev/icons?i=gmail" height="52" alt="Email"/>
   </a>
 </p>
+
