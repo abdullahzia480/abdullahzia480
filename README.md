@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/abdullahzia480">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Abdullah" alt="Hello! I'm Abdullah" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2EA043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Abdullah" alt="Hello! I'm Abdullah" />
   </a>
 </p>
 <p align="center">
