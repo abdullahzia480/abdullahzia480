@@ -3,13 +3,8 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Abdullah" alt="Hello! I'm Abdullah" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=3fb950&height=2&section=header" width="260"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=745&height=44&lines=Digital%20Forensics%2C%20Incident%20Response%2C%20Blue%20Team" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=58a6ff&center=true&vCenter=true&width=745&height=44&lines=Digital%20Forensics%2C%20Incident%20Response%2C%20Blue%20Team" alt="Typing headlines" />
 </p>
 
 ### ✦ About Me
